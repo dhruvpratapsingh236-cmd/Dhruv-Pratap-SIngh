@@ -1,0 +1,15 @@
+Dhruv Pratap SInghWhat is union?
+A user-defined data type where all members share the same memory.
+
+Why use union?
+To save memory when only one value is needed at a time.
+
+Difference between structure and union?
+Structure → independent memory
+Union → shared memory
+
+Size of union?
+Size of its largest member.
+
+Can union store multiple values at same time?
+No, only one member holds valid data at a time.
